@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Shahzada Mohammadi 👋
 
-<!--
-**code-Dev1/code-Dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 Laravel Developer
+⚛️ React Developer
+🗄️ MySQL Database Designer
+🔐 REST API Development
+🌍 Kabul, Afghanistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- Laravel
+- PHP
+- React.js
+- Livewire
+- Tailwind CSS
+- MySQL
+- Git & GitHub
+
+### Featured Projects
+
+#### Kabul University Dormitory Management System
+Advanced dormitory management system with:
+- Student Management
+- Bed Allocation
+- Biometric Attendance
+- Reports & Analytics
+- Multi Role Access
+
+#### School ERP System
+- Student Management
+- Finance Management
+- Attendance System
+- Teacher Management
+
+### Contact
+
+Email: shahzadahamidy1@gmail.com
+GitHub: https://github.com/code-dev1
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-dev1&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-dev1&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=code-dev1)
