@@ -44,4 +44,12 @@ GitHub: https://github.com/code-dev1
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-dev1&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=code-dev1)
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+
+![React](https://img.shields.io/badge/React-19-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+![](https://komarev.com/ghpvc/?username=code-dev1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=code-dev1)](https://github.com/ryo-ma/github-profile-trophy)
