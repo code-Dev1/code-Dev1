@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahzada Mohammadi</h1>
-<h3>Full-Stack Developer from Afghanistan 🇦🇫 🚀 Laravel & Livewire Developer
-  ⚛️ React Developer 🗄️ Database Designer (MySQL) 🔐 REST API Developer 🏫 ERP & University Management Systems 📱 Modern Web Application Developer Passionate about building scalable, secure, and user-friendly software solutions.</h3>
+<h3>Full-Stack Developer from Afghanistan 🇦🇫 🚀 Laravel & Livewire Developer<br/>
+  ⚛️ React Developer <br/>🗄️ Database Designer (MySQL) <br/>🔐 REST API Developer <br/>🏫 ERP & University Management Systems <br/>📱 Modern Web Application Developer Passionate about building scalable, secure, and user-friendly software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="code-dev1" /> </p>
 
